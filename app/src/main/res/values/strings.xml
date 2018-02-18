@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Schedule Pin</string>
+    <string name="action_settings">Settings</string>
+    <string name="my_cart">My Cart</string>
+    <string name="delete">DELETE</string>
+
+    <string name="title_activity_alarm_alert">AlarmAlert</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="sush_nitofication">Sush Notification</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="cancel_notification">Cancel Notification</string>
+    <string name="features1">* Interactive Graphical User Interface</string>
+    <string name="features2">* Task Saving With Alarm Reminder</string>
+    <string name="features3">* Notification Facility</string>
+</resources>

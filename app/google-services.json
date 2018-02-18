@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "484701914554",
+    "firebase_url": "https://me-work.firebaseio.com",
+    "project_id": "me-work",
+    "storage_bucket": "me-work.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:484701914554:android:cde246a44b176172",
+        "android_client_info": {
+          "package_name": "com.example.sajagjain.mework"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "484701914554-ns3ndk6atutevvn8cjca32m07cj2ea6h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.sajagjain.mework",
+            "certificate_hash": "1659d0147e115db72846089b3ac2ff6066ef9412"
+          }
+        },
+        {
+          "client_id": "484701914554-krnk009ugvqu9mu6jgulbutn696htau7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4X82Y_1EyyaeeuJ5urO3Njc111e8bVNM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "484701914554-krnk009ugvqu9mu6jgulbutn696htau7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
